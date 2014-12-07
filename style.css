@@ -1,0 +1,24 @@
+#content {
+	margin: 0 auto;
+}
+
+#content img {
+	display: block;
+	margin-bottom: 1em;
+}
+
+#company-logos {
+	background-image: url(company-logos.png);
+	height: 96px;
+	width: 352px;
+	float: left;
+}
+
+#buy-button {
+	background-image: url(buy-button.png);
+	height: 74px;
+	width: 206px;
+	float: right;
+	margin: 1em;
+}
+
